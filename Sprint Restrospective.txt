@@ -1,4 +1,5 @@
 Sprint Restropective
-
+Data de início: 22/04/2025
+Data de fim: 29/04/2025
 Com o desenvolvimento dessa sprint foi possível solucionar a mudança da cor da imagem dos carros (index.html) e do código fonte (contato.html) utilizando ferramentas de controle de versão como o Git e o Github
 houve a dificuldade em relação a conflito de versões no merge das branchs Index e Contato na Main, a solução encontrada foi retornar a versão de código antiga e realizar a nova alteração nos códigos.
